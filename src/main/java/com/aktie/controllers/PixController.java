@@ -21,4 +21,5 @@ public class PixController {
     public PixDTO create(PixDTO dto) {
         return service.genPix(dto);
     }
+    
 }
